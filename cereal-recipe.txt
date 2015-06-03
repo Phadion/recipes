@@ -1,0 +1,8 @@
+Ingredients: 
+- milk
+- cereal
+
+Instructions: 
+- get a bowl
+- put ceral in the bowl
+- put milk in the bowl
